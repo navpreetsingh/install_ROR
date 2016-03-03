@@ -1,6 +1,6 @@
-# install_ROR
+# Install_ROR
 
-Please Install Ruby on Rails on your machines using rvm. Below commands work in Ubuntu O.S.
+Please Install **Ruby on Rails** on your machines using **RVM**. Below commands work in Ubuntu O.S.
 
 ## Requirements
 
@@ -25,19 +25,19 @@ $ rails --version
 
 ## MAKING 2 SAMPLE APPS IN YOUR SYSTEM
 
-** Run the below commands to create 2 sample projects **
+**Run the below commands to create 2 sample projects**
 
 ```sh
 $ rails new sample_app_1
 $ rails new sample_app_1
 ```
 
-**NOTE:** Copy the content in file **Gemfile_mysql** to your **Gemfile**, if you want to keep the database mysql, else just copy the content of file **Gemfile_sqlite3** to your **Gemfile**\
+**NOTE:** Copy the content in file **Gemfile_mysql** to your **Gemfile**, if you want to keep the database **mySQL**, else just copy the content of file **Gemfile_sqlite3** to your **Gemfile**\
 
 ## If choose **MYSQL** Db
-
+**Run the below command.**
 ```sh
-$ apt-get install libmysqlclient-dev
+$ sudo apt-get install libmysqlclient-dev
 ```
 
 ## Install the Bundle 
@@ -53,4 +53,3 @@ $ bundle install
 ```sh
 $ rake db:create
 ```
-
