@@ -74,7 +74,7 @@ $ heroku version
 $ heroku login
 ```
 
-## ADDING SSH KEY TO YOUR SYSTEM
+## GENERATION SSH KEY FOR THE SYSTEM
 
 If you have **SSH** key in your system, then please skip this part
 
