@@ -1,6 +1,7 @@
 # Install_ROR
 
 Please Install **Ruby on Rails** on your machines using **RVM**. Below commands work in Ubuntu O.S.
+To install in [Windows](https://github.com/navpreetsingh/install_ROR/wiki/Install-ROR-in-Windows)
 
 ## Requirements
 
